@@ -1,0 +1,7 @@
+colorama
+keyboard
+pymem
+pynput
+numpy
+opencv-python
+pygetwindow
